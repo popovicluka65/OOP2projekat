@@ -1,0 +1,1 @@
+broj runde: 1, brojevi: 1 1 2 2 15 75 800 , igrac A je dobio rezultat: 3, a resenje odstupa za: 797, igrac B je dobio rezultat: 7, a resenje odstupa za: 793, pobednik runde je: Takmicar B, resenje kompjutera je: ((((1 + 15) * 2) * 75) / (1 + 2))
